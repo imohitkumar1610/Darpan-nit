@@ -34,3 +34,5 @@ Update content in `index.html` file.
 ## start working
 
 ![App Screenshot](assets/img/screenshot-2.png)
+
+## Do Star the repository.
