@@ -4,7 +4,7 @@
 
 # Official Webpage of Darpan 
 
-This is the upcoming official wbage for Darpan - Nit Durgapur. The content isn't updated. Help to update the content.
+This is the upcoming official wbage for Darpan - Nit Durgapur. The content isn't updated. Help to update it.
 
 
 
