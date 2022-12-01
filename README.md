@@ -1,5 +1,5 @@
 
-![Logo](https://nitdgp.ac.in/uploads/df28040e57c786faa1713656bce18a57.jpg)
+![Logo](assets/img/darpan-logo.jpg)
 
 
 # Official Webpage of Darpan 
@@ -22,7 +22,7 @@ Update content in `index.html` file.
 
 ## Get Started
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](assets/img/Screenshot.png)
 
 
 ## Tech Stack
@@ -32,15 +32,6 @@ Update content in `index.html` file.
 
 
 
-## Running Tests
+## start working
 
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## get started
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](assets/img/screenshot-2.png)
