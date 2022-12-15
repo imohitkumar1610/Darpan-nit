@@ -118,46 +118,6 @@ h6 {
 }
 
 /*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
-/* #header {
-  transition: all 0.5s;
-  background: #fff;
-  z-index: 997;
-  padding: 15px 0;
-  border-bottom: 1px solid #e6f2fb;
-}
-
-#header.header-scrolled {
-  border-color: #fff;
-  box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
-}
-
-#header .logo {
-  font-size: 28px;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 300;
-  letter-spacing: 0.5px;
-  font-family: "Poppins", sans-serif;
-}
-
-#header .logo a {
-  color: #16507b;
-}
-
-#header .logo img {
-  max-height: 40px;
-}
-
-@media (max-width: 992px) {
-  #header .logo {
-    font-size: 28px;
-  }
-} */
-
-/*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
@@ -653,7 +613,7 @@ section {
 /*--------------------------------------------------------------
 # About Video
 --------------------------------------------------------------*/
-.about-video .content {
+/* .about-video .content {
   font-size: 15px;
 }
 
@@ -781,7 +741,7 @@ section {
     transform: scale(1, 1);
     opacity: 0;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Clients
@@ -1368,117 +1328,6 @@ section {
 
 .team .member:hover .social {
   opacity: 1;
-}
-
-/*--------------------------------------------------------------
-# Pricing
---------------------------------------------------------------*/
-.pricing .box {
-  padding: 40px 20px;
-  text-align: center;
-  border-radius: 8px;
-  position: relative;
-  overflow: hidden;
-  background: #fefefe;
-  box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.1);
-}
-
-.pricing .box h3 {
-  font-weight: 400;
-  padding: 15px;
-  font-size: 18px;
-  text-transform: uppercase;
-  font-weight: 600;
-  color: #124265;
-}
-
-.pricing .box h4 {
-  font-size: 42px;
-  color: #2487ce;
-  font-weight: 500;
-  font-family: "Open Sans", sans-serif;
-  margin-bottom: 20px;
-}
-
-.pricing .box h4 sup {
-  font-size: 20px;
-  top: -15px;
-  left: -3px;
-}
-
-.pricing .box h4 span {
-  color: #bababa;
-  font-size: 16px;
-  font-weight: 300;
-}
-
-.pricing .box ul {
-  padding: 0;
-  list-style: none;
-  color: #124265;
-  text-align: center;
-  line-height: 20px;
-  font-size: 14px;
-}
-
-.pricing .box ul li {
-  padding-bottom: 16px;
-}
-
-.pricing .box ul .na {
-  color: #ccc;
-  text-decoration: line-through;
-}
-
-.pricing .box .btn-wrap {
-  padding: 15px;
-  text-align: center;
-}
-
-.pricing .box .btn-buy {
-  display: inline-block;
-  padding: 10px 40px;
-  border-radius: 4px;
-  color: #2487ce;
-  transition: none;
-  font-size: 14px;
-  font-weight: 400;
-  font-family: "Raleway", sans-serif;
-  font-weight: 600;
-  transition: 0.3s;
-  border: 2px solid #2487ce;
-}
-
-.pricing .box .btn-buy:hover {
-  background: #2487ce;
-  color: #fff;
-}
-
-.pricing .featured {
-  background: #2487ce;
-}
-
-.pricing .featured h3,
-.pricing .featured h4,
-.pricing .featured h4 span,
-.pricing .featured ul,
-.pricing .featured ul .na {
-  color: #fff;
-}
-
-.pricing .featured .btn-wrap {
-  padding: 15px;
-  text-align: center;
-}
-
-.pricing .featured .btn-buy {
-  color: #fff;
-  border: 2px solid #fff;
-}
-
-.pricing .featured .btn-buy:hover {
-  background: #fff;
-  color: #2487ce;
 }
 
 /*--------------------------------------------------------------
