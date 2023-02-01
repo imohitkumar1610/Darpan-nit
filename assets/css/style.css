@@ -360,7 +360,7 @@ h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: url("../img/heo-bg-6.jpg") top center;
+  background: url("../img/darpanBgImg.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -1039,7 +1039,7 @@ section {
   margin-bottom: 30px;
 }
 
-.portfolio #portfolio-flters {
+/* .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 35px auto;
   list-style: none;
@@ -1068,7 +1068,7 @@ section {
 
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
-}
+} */
 
 .portfolio .portfolio-wrap {
   transition: 0.3s;
@@ -1190,7 +1190,7 @@ section {
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
-.portfolio-details {
+/* .portfolio-details {
   padding-top: 40px;
 }
 
@@ -1250,7 +1250,7 @@ section {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
-}
+} */
 
 /*--------------------------------------------------------------
 # Team
@@ -1509,7 +1509,7 @@ section {
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
-.breadcrumbs {
+/* .breadcrumbs {
   padding: 15px 0;
   background: #f8fbfe;
   min-height: 40px;
@@ -1559,7 +1559,7 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Footer
